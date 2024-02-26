@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Sarthak+!;I+am+a+Software+Developer)](https://git.io/typing-svg)
 ### Hi there 👋
 
 <!--
