@@ -16,6 +16,7 @@
 
 ---
 
+<!-- 
 ### 🛠 Tools and Technologies I have worked with
 
 💻 Languages:
@@ -40,7 +41,7 @@
 <br/>
 
 ---
-
+-->
 
 
 
