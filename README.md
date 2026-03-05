@@ -12,9 +12,9 @@ I enjoy debugging complex production issues, designing resilient systems, and re
 ### 🛠 Tools and Technologies I have worked with
 
 💻 Languages:
-[![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<!-- [![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
 [![Go Badge](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -72,8 +72,10 @@ I enjoy debugging complex production issues, designing resilient systems, and re
 
 
 
-![snake gif](https://github.com/sarthakK31/sarthakK31/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sarthakK31/sarthakK31/snake/github-snake-dark.svg" width="100%">
 
+
+<img src="https://raw.githubusercontent.com/sarthakK31/sarthakK31/main/profile-green-dual.svg">
 <!--
 **sarthakK31/sarthakK31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
