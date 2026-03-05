@@ -1,18 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F72772&random=false&width=435&lines=Hey%2C+I+am+Sarthak+!;I+am+a+Site+Reliability+Engineer.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Coral+Pixels&size=35&duration=2500&pause=500&color=F72361&width=550&height=70&lines=Hi+!+I+am+Sarthak.;I+am+an+SRE+and+I+like+it+!)](https://git.io/typing-svg)
 ---
 
 ### 👩‍💻 About Me
+Site Reliability Engineer focused on building reliable cloud infrastructure, Kubernetes platforms, and automation-driven developer tooling.  
 
-☑️  I am a software engineer holding a Bachelor's degree in Information Technology from Maharaja Agrasen Institute Of Technology, graduating in 2023.
-
-☑️  I worked as a Fullstack Developer at Skill Clan, where I made significant contributions to the online platform, utilizing my skills in React and Node.
-
-☑️  I also worked as a Devops Engineer Intern at Linux World Informatics, building robust CICD pipelines.
-
-☑️  I worked as a Data Structures and Algorithms (DSA) Mentor at Girl Code It, actively contributing to the achievement of DSA Bootcamp milestones. I mentored over 50 mentees, fostering their growth in problem-solving and algorithmic thinking.
-
-☑️  I am looking forward to explore the open source world and share my learnings via contributions.
+I enjoy debugging complex production issues, designing resilient systems, and reducing operational toil through infrastructure automation.  
 
 ---
 
@@ -80,7 +72,7 @@
 
 
 
-
+![snake gif](https://github.com/sarthakK31/sarthakK31/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **sarthakK31/sarthakK31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
